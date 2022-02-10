@@ -101,7 +101,7 @@ id,name,code,points,contestCode,tags
 5f9d08ccf6afbe00225d2aa0,POINTBREAK,SRM18C,200,SRM18,adhoc
 5f9d0adef6afbe00225d2aa1,14000605,SRM18D,300,SRM18,dp
 5fb0bdc8b5538800223c1c96,The intelligent investor,SRM19A,100,SRM19,adhoc
-5fae92e8a9b4ba002281a81e,Keys for the Keyboard,SRM19B,100,SRM19,adhoc strings 
+5fae92e8a9b4ba002281a81e,Keys for the Keyboard,SRM19B,100,SRM19,adhoc strings
 5fae67ab77dd8c0022cb042f,Dual Divisibility,SRM19C,150,SRM19,math
 5fae9698a9b4ba002281a820,XORXORXOR,SRM19D,200,SRM19,bitwise math dp
 5fae6cea77dd8c0022cb0432,Goofy meets Miu,SRM19E,300,SRM19,greedy data structures
@@ -143,7 +143,7 @@ id,name,code,points,contestCode,tags
 613b896982592a00235c0a3d,Debug Freelancing,SEP21C,200,SEP21,adhoc
 613b4d6df969d70023246c83,Three 3verywhere,SEP21D,200,SEP21,dp adhoc
 613b951f82592a00235c0a3f,Binary Pair Swap,SEP21E,300,SEP21,bit manipulation
-614c708da5479f0023787774,Winner gets Share ,SRM24A,100,SRM24,adhoc 
+614c708da5479f0023787774,Winner gets Share ,SRM24A,100,SRM24,adhoc
 614c65eba5479f002378776e,Professor loves vowels,SRM24B,100,SRM24,adhoc strings
 614c630ba5479f002378776d,Professor loves chess,SRM24C,200,SRM24,maths implementation adhoc chess
 614cb2c0b93b4e00230e2782,Lisbon's Integers,SRM24D,300,SRM24,adhoc
@@ -151,11 +151,11 @@ id,name,code,points,contestCode,tags
 618e85c97793650023873240,Samprit's Terminal,NOV21B,100,NOV21,adhoc
 618e8ad77793650023873243,Word Game,NOV21C,150,NOV21,strings
 618e88557793650023873242,Bake it Quickly,NOV21D,200,NOV21,maths
-618bff9869467c00238c69b7,Jidaro Relation ,NOV21E,200,NOV21,adhoc 
+618bff9869467c00238c69b7,Jidaro Relation ,NOV21E,200,NOV21,adhoc
 618ec686dfc674002301c26b,Flipping Cards,NOV21F,250,NOV21,strings
 618e8b9e7793650023873244,Mexy Series,NOV21G,300,NOV21,mex maths
 618edf00dfc674002301c26e,Maze Runner,NOV21H,350,NOV21,dfs tree
-61d941c1e0fb7f00247ac020,Happy Meter ,CODEh-A,100,CH2022,adhoc math 
+61d941c1e0fb7f00247ac020,Happy Meter ,CODEh-A,100,CH2022,adhoc math
 61d95ad22d678f002403d02c,Prime Winner,CODEh-B,100,CH2022,adhoc dp
 61d9c8cf2d678f002403d077, WHO IS SOBER,CODEh-C,200,CH2022,adhoc
 61d9c1bd2d678f002403d068,Drinking Game,CODEh-D,200,CH2022,adhoc logic
