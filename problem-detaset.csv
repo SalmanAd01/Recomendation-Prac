@@ -4,95 +4,95 @@ id,name,code,points,contestCode,tags
 5c39f0543646190022847c61,Vowel Shovel,UNI03,0,UNIVERSE,cakewalk
 5c39ed573646190022847c59,Tug Of War,UNI04,0,UNIVERSE,cakewalk
 5c39f1023646190022847c62,Distance Finder,UNI05,0,UNIVERSE,math
-5c39f4af80aaed0022b63275,Time Never Stops,UNI06,0,UNIVERSE,math  strings
-5b645f711b2cd40020b6c771,Avengers Unite,AUG18A,100,AUG18,adhoc  strings
-5b649819c0b1b80020eb30e1,Cibin Needs To Bunk,AUG18B,100,AUG18,adhoc  math
-5b64600d1b2cd40020b6c772,Doctor Strange to the rescue,AUG18C,100,AUG18,adhoc  strings
-5b6c3ec18cab100020e963b7,Tom vs Jerry,SRM01A,100,SRM01,adhoc  math
-5b6c3fc08cab100020e963b8,Scooby Doo Is In Danger,SRM01B,200,SRM01,adhoc  strings
-5b6c42d08cab100020e963b9,Save Dexter’s Laboratory,SRM01C,250,SRM01,math  sortings
+5c39f4af80aaed0022b63275,Time Never Stops,UNI06,0,UNIVERSE,math strings
+5b645f711b2cd40020b6c771,Avengers Unite,AUG18A,100,AUG18,adhoc strings
+5b649819c0b1b80020eb30e1,Cibin Needs To Bunk,AUG18B,100,AUG18,adhoc math
+5b64600d1b2cd40020b6c772,Doctor Strange to the rescue,AUG18C,100,AUG18,adhoc strings
+5b6c3ec18cab100020e963b7,Tom vs Jerry,SRM01A,100,SRM01,adhoc math
+5b6c3fc08cab100020e963b8,Scooby Doo Is In Danger,SRM01B,200,SRM01,adhoc strings
+5b6c42d08cab100020e963b9,Save Dexter’s Laboratory,SRM01C,250,SRM01,math sortings
 5b72e7f9750b6100209d9f12,Pritam Loves Discount,SRM02A,100,SRM02,math
 5b72f1a5750b6100209d9f13,Pritam Hates Bus Conductor,SRM02B,200,SRM02,strings
 5b714d3c155c0000206d76fc,Pritam Likes Cupcakes,SRM02C,250,SRM02,math
-5b96a51f9808fa0020a42972,Convincing Rahul,SRM03A,100,SRM03,adhoc  math
-5b96a89fe701a900207872a6,Predict Shambhavi,SRM03B,200,SRM03,dp  math
-5b96a9e0e701a900207872a7,Help Shweta to win The Matrix,SRM03C,250,SRM03,adhoc  strings
-5b9e5804c81946001f697c1e,Who Will Break The Handi?,SEPT18A,100,SEPT18,adhoc  math
-5b9e5acec81946001f697c1f,Shweta And Her Rakhi,SEPT18B,100,SEPT18,adhoc  math
+5b96a51f9808fa0020a42972,Convincing Rahul,SRM03A,100,SRM03,adhoc math
+5b96a89fe701a900207872a6,Predict Shambhavi,SRM03B,200,SRM03,dp math
+5b96a9e0e701a900207872a7,Help Shweta to win The Matrix,SRM03C,250,SRM03,adhoc strings
+5b9e5804c81946001f697c1e,Who Will Break The Handi?,SEPT18A,100,SEPT18,adhoc math
+5b9e5acec81946001f697c1f,Shweta And Her Rakhi,SEPT18B,100,SEPT18,adhoc math
 5b9e5d0dc81946001f697c20,Vishal's Journey,SEPT18C,100,SEPT18,strings
-5b9e6068888c06001ffabf9b,Nishant's Diwali Puzzle,SEPT18D,100,SEPT18,adhoc  math
-5b9e444fc81946001f697c1d,Aarya Celebrates Dussehra,SEPT18E,100,SEPT18,graphs  strings
+5b9e6068888c06001ffabf9b,Nishant's Diwali Puzzle,SEPT18D,100,SEPT18,adhoc math
+5b9e444fc81946001f697c1d,Aarya Celebrates Dussehra,SEPT18E,100,SEPT18,graphs strings
 5bae773afda1fc0021bbf24a,Cibin Challenges Harsh,SRM04A,100,SRM04,math
-5bae7910fda1fc0021bbf24b,Chopper Challenge,SRM04B,200,SRM04,sortings  strings
+5bae7910fda1fc0021bbf24b,Chopper Challenge,SRM04B,200,SRM04,sortings strings
 5bae7e94fda1fc0021bbf24c,Ghost Game,SRM04C,300,SRM04,binary search
-5c2c5e61ec9f5000224eef13,Cibin Likes Networking,SRM05A,100,SRM05,adhoc  math
-5c2c5c6cec9f5000224eef12,Cibin is confused between IPv4 and IPv6,SRM05B,200,SRM05,adhoc  strings
+5c2c5e61ec9f5000224eef13,Cibin Likes Networking,SRM05A,100,SRM05,adhoc math
+5c2c5c6cec9f5000224eef12,Cibin is confused between IPv4 and IPv6,SRM05B,200,SRM05,adhoc strings
 5c2c5ac54ed5920022b4ae89,Installation of OS in New Computers,SRM05C,300,SRM05,graphs
-5c2cd2eee3e5da002279017e,Fifteen Million Merits,SRM06A,100,SRM06,adhoc  strings
-5c2dadc092a9930022a9dc85,The National Anthem,SRM06B,200,SRM06,adhoc  math
-5c2daf4992a9930022a9dc86,White Bear,SRM06C,250,SRM06,greedy  math
-5c4ae1bc91b74800225c106d,Declaring Winners,SRM07A,100,SRM07,math  sortings
+5c2cd2eee3e5da002279017e,Fifteen Million Merits,SRM06A,100,SRM06,adhoc strings
+5c2dadc092a9930022a9dc85,The National Anthem,SRM06B,200,SRM06,adhoc math
+5c2daf4992a9930022a9dc86,White Bear,SRM06C,250,SRM06,greedy math
+5c4ae1bc91b74800225c106d,Declaring Winners,SRM07A,100,SRM07,math sortings
 5c4ae2fd91b74800225c106e,"Nap, hack, repeat.",SRM07B,200,SRM07,math
 5c4ae7c391b74800225c106f,Instructions please !,SRM07C,400,SRM07,dp
 5c506d5c3027fa0022016678,Rarity Calculator ,SRM08A,100,SRM08,adhoc
-5c506e743027fa0022016682,Lecture Bunk,SRM08B,200,SRM08,adhoc  math
+5c506e743027fa0022016682,Lecture Bunk,SRM08B,200,SRM08,adhoc math
 5c5072073027fa002201668a,Mischievous Barath,SRM08C,250,SRM08,math
 5c7abbd75dfcc900221e1119,Grenade Matrix,SRM09A,100,SRM09,adhoc
-5c7ac7bf5dfcc900221e112b,Zombie Mode,SRM09B,200,SRM09,adhoc  math
+5c7ac7bf5dfcc900221e112b,Zombie Mode,SRM09B,200,SRM09,adhoc math
 5c7ac9bc5dfcc900221e112d,Aditya Loves PUBG,SRM09C,300,SRM09,dp
-5c9f2ade66d9c7002236765e,Swedish House Mafia ⚫️⚫️⚫️,GBYE19A,100,GBYE19,adhoc  math
-5c9f3d52a9c6000022af0e05,Consistent brand,GBYE19B,100,GBYE19,adhoc  math  strings
-5ca063dd08f90d00223749ea,Don't You Worry Child (Surprise Problem),GBYE19C,100,GBYE19,dp  math
+5c9f2ade66d9c7002236765e,Swedish House Mafia ⚫️⚫️⚫️,GBYE19A,100,GBYE19,adhoc math
+5c9f3d52a9c6000022af0e05,Consistent brand,GBYE19B,100,GBYE19,adhoc math strings
+5ca063dd08f90d00223749ea,Don't You Worry Child (Surprise Problem),GBYE19C,100,GBYE19,dp math
 5c9b945e6769cb002257bcb5,TE'S And Their Project Groups,GBYE19D,100,GBYE19,graphs
-5c98eb0d16c4b60022cd52f0,Drake Loves Kiki,GBYE19E,100,GBYE19,dp  strings
-5c98f64b16c4b60022cd52f3,TML Events,GBYE19F,100,GBYE19,adhoc  math
-5c98edc316c4b60022cd52f1,The Chat Pattern,GBYE19G,100,GBYE19,adhoc  strings
+5c98eb0d16c4b60022cd52f0,Drake Loves Kiki,GBYE19E,100,GBYE19,dp strings
+5c98f64b16c4b60022cd52f3,TML Events,GBYE19F,100,GBYE19,adhoc math
+5c98edc316c4b60022cd52f1,The Chat Pattern,GBYE19G,100,GBYE19,adhoc strings
 5d3c780e7cb1120022007f29,Miu hates rectangles,BETA01A,100,BETA01,math
 5d3c94af7cb1120022007f38,Book Cricket,BETA01B,100,BETA01,adhoc
 5d3c981a7cb1120022007f39,Keyboard Prank,BETA01C,100,BETA01,strings
 5d3c81e87cb1120022007f2f,Swapnil and his autocorrect,BETA01D,200,BETA01,strings
-5d3c84697cb1120022007f30,XOR Modification,BETA01E,300,BETA01,heap  sortings
-5d46f3ce86031f00223f4ce7,Shiny Calculation,SRM10A,100,SRM10,cakewalk  math
-5d49981887a3d00022372d92,OH? Something is happening. ,SRM10B,200,SRM10,adhoc  math
-5d46f62486031f00223f4ce8,Billy's PC,SRM10C,250,SRM10,adhoc  strings
+5d3c84697cb1120022007f30,XOR Modification,BETA01E,300,BETA01,heap sortings
+5d46f3ce86031f00223f4ce7,Shiny Calculation,SRM10A,100,SRM10,cakewalk math
+5d49981887a3d00022372d92,OH? Something is happening. ,SRM10B,200,SRM10,adhoc math
+5d46f62486031f00223f4ce8,Billy's PC,SRM10C,250,SRM10,adhoc strings
 5d615f02ec3cc6002207e857,Cirtangle,SRM11A,100,SRM11,math
-5d61680dec3cc6002207e876,Jagga plays TT,SRM11B,100,SRM11,math  strings
+5d61680dec3cc6002207e876,Jagga plays TT,SRM11B,100,SRM11,math strings
 5d616091ec3cc6002207e858,Complex relationship,SRM11C,150,SRM11,math
-5d623acae007440022d873c0,Catch-a Local,SRM11D,200,SRM11,adhoc  math
-5d7a599fb112e300220a44d0,Stage 1: Yusuf’s dream,SRM12A,100,SRM12,adhoc  cakewalk
-5d7a604bb112e300220a44d1,Stage 2: Arthur’s dream,SRM12B,300,SRM12,adhoc  dp
-5d7a635db112e300220a44d2,Stage 3: Eames’ dream,SRM12C,200,SRM12,adhoc  strings
+5d623acae007440022d873c0,Catch-a Local,SRM11D,200,SRM11,adhoc math
+5d7a599fb112e300220a44d0,Stage 1: Yusuf’s dream,SRM12A,100,SRM12,adhoc cakewalk
+5d7a604bb112e300220a44d1,Stage 2: Arthur’s dream,SRM12B,300,SRM12,adhoc dp
+5d7a635db112e300220a44d2,Stage 3: Eames’ dream,SRM12C,200,SRM12,adhoc strings
 5e15ec2073aedb002281070e,So you think you can Dance?,SRM13A,100,SRM13,math
 5e15ed4773aedb002281070f,So you think you can Math?,SRM13B,200,SRM13,math
 5e15eea073aedb0022810710,So you think you can Dare?,SRM13C,300,SRM13,math
 5e15efea73aedb0022810711,So you think you can Think?,SRM13D,300,SRM13,math
 5e2d10a1533c8d0022c770f2,Shadow Clone Jutsu,SRM14A,100,SRM14,math
 5e2d1287533c8d0022c770f3,A Mission in the Land of Greens,SRM14B,200,SRM14,math
-5e2d281c533c8d0022c770fd,Lady Tsunade Needs Help,SRM14C,200,SRM14,greedy  math
-5e2d29af533c8d0022c770fe,Kakashi vs Shikamaru,SRM14D,300,SRM14,adhoc  greedy
+5e2d281c533c8d0022c770fd,Lady Tsunade Needs Help,SRM14C,200,SRM14,greedy math
+5e2d29af533c8d0022c770fe,Kakashi vs Shikamaru,SRM14D,300,SRM14,adhoc greedy
 5e6dfacd502c4b0022178adb,Miu and Nodes,SRM15A,200,SRM15,greedy
-5e6cb4e245fd530022f5ad68,Anand hacks Aditya’s Laptop,SRM15B,200,SRM15,brute force  math
+5e6cb4e245fd530022f5ad68,Anand hacks Aditya’s Laptop,SRM15B,200,SRM15,brute force math
 5e6e0be659366b002223786e,Mercy and her kill list,SRM15C,300,SRM15,adhoc
 5e8065b799770c00221d371a,"Go Corona, Corona Go",SRM16A,100,SRM16,strings
-5e8088ab99770c00221d371d,Devin's Prime Time Hack,SRM16B,250,SRM16,math  number theory
+5e8088ab99770c00221d371d,Devin's Prime Time Hack,SRM16B,250,SRM16,math number theory
 5e80968d99770c00221d371e,Secret Info,SRM16C,300,SRM16,math
 5e987904773965002294ebf1,Social Distancing,GBYE20A,100,GBYE20,math
-5e988a5f773965002294ebf2,Ashish’s Playlist,GBYE20B,100,GBYE20,brute force  math
-5e98a5f03af9550022fc130c,Teaming up against Covid-19,GBYE20C,100,GBYE20,greedy  math
-5e98b2ae3af9550022fc1311,Partners In Crime,GBYE20D,100,GBYE20,data structures  greedy
-5e98ba9d3af9550022fc1315,Professors’ schedule,GBYE20E,100,GBYE20,adhoc  implementation
-5e98bde83af9550022fc1316,That Beautiful Moment! 🏵️,GBYE20F,100,GBYE20,adhoc  constructive  implementation
+5e988a5f773965002294ebf2,Ashish’s Playlist,GBYE20B,100,GBYE20,brute force math
+5e98a5f03af9550022fc130c,Teaming up against Covid-19,GBYE20C,100,GBYE20,greedy math
+5e98b2ae3af9550022fc1311,Partners In Crime,GBYE20D,100,GBYE20,data structures greedy
+5e98ba9d3af9550022fc1315,Professors’ schedule,GBYE20E,100,GBYE20,adhoc implementation
+5e98bde83af9550022fc1316,That Beautiful Moment! 🏵️,GBYE20F,100,GBYE20,adhoc constructive implementation
 5e98c4f63af9550022fc1317,"So many bucks, soo little time",GBYE20G,100,GBYE20,dp
 5f368132d83e600022d1b148,Tallest Pair of Buildings,SRM17A,100,SRM17,adhoc
-5f3523bc72b45b0022f74c55,Jack wants help,SRM17B,100,SRM17,greedy   sorting
-5f35262e72b45b0022f74c56,Max Discount,SRM17C,200,SRM17,greedy   adhoc
-5f353ac472b45b0022f74c5f,Weird Operations,SRM17D,300,SRM17,brute force  constructive
-5f6c59f08cc9c4002205a871,Cancer Man,SEPT20A,100,SEPT20,implementation  maths
+5f3523bc72b45b0022f74c55,Jack wants help,SRM17B,100,SRM17,greedy sorting
+5f35262e72b45b0022f74c56,Max Discount,SRM17C,200,SRM17,greedy adhoc
+5f353ac472b45b0022f74c5f,Weird Operations,SRM17D,300,SRM17,brute force constructive
+5f6c59f08cc9c4002205a871,Cancer Man,SEPT20A,100,SEPT20,implementation maths
 5f6ad8a34bf84b0022982aff,I See You,SEPT20B,200,SEPT20,adhoc
 5f6ad96e4bf84b0022982b00,This… is not Math,SEPT20C,300,SEPT20,math
 5f6ae4ad4bf84b0022982b01,Salud   ,SEPT20D,300,SEPT20,greedy data structures
 5f6ae8654bf84b0022982b02,Half Measures,SEPT20E,300,SEPT20,greedy data structures
-5f6c60908cc9c4002205a872,Stay Out Of My Territory,SEPT20F,350,SEPT20,dfs  dsu
+5f6c60908cc9c4002205a872,Stay Out Of My Territory,SEPT20F,350,SEPT20,dfs dsu
 5f81693ae5737600220575c1,Joey learns French,GSL01A,100,GSL01,adhoc strings
 5f828e1a253e190022125d37,Joey doesn’t share food!,GSL01B,200,GSL01,adhoc
 5f817795e5737600220575c2,Smelly Cat,GSL01C,250,GSL01,dp
@@ -110,27 +110,27 @@ id,name,code,points,contestCode,tags
 5fbf9f6f9296860022aa89dc,Following the Trail,NOV20C,200,NOV20,math
 5fbfa1179296860022aa89dd,"Spidey-Senses, tingling!",NOV20D,200,NOV20,bruteforce
 5fbfa34b9296860022aa89df,All or Nothing,NOV20E,250,NOV20,adhoc
-5fbfa2779296860022aa89de,Bull Fight - Jallikattu,NOV20F,300,NOV20,data structures  greedy
+5fbfa2779296860022aa89de,Bull Fight - Jallikattu,NOV20F,300,NOV20,data structures greedy
 602f5e6aeb158c002271b46c,Twice Elements,REC21A,100,REC21,adhoc
 602f504deb158c002271b467,Concentrick,REC21B,150,REC21,math
 602f5084eb158c002271b468,Array Recovering,REC21C,150,REC21,adhoc
 602f525deb158c002271b469,Validation,REC21D,200,REC21,adhoc implementation
 602f53f4eb158c002271b46a,Partition,REC21E,300,REC21,graphs
 602f54d1eb158c002271b46b,The Perfect Tree,REC21F,300,REC21,graphs
-604ba7dfc244c800220fc499, Efficient Sam,SRM20A,100,SRM20,sorting  greedy
+604ba7dfc244c800220fc499, Efficient Sam,SRM20A,100,SRM20,sorting greedy
 604a67a16350fa0022ce1c6d,Shuffling,SRM20B,100,SRM20,maths
-604bab0ec244c800220fc49a,Scrabble,SRM20C,200,SRM20,string  palindrome
+604bab0ec244c800220fc49a,Scrabble,SRM20C,200,SRM20,string palindrome
 604a6ad46350fa0022ce1c6e,Triangular geometry,SRM20D,200,SRM20,geometry
 6055b8213d00c8002293e4ce,Crack the Code,SRM21A,100,SRM21,mathtag
 6055c43ecef4570022ac9c14,Cooper goes Shopping!,SRM21B,100,SRM21,math
-6055bd3d3d00c8002293e4d3,Wormhole Crossing,SRM21C,200,SRM21,perimeter  math
-6055b90e3d00c8002293e4cf,Ship Docking,SRM21D,300,SRM21,geometry  math  permutation and combination
+6055bd3d3d00c8002293e4d3,Wormhole Crossing,SRM21C,200,SRM21,perimeter math
+6055b90e3d00c8002293e4cf,Ship Docking,SRM21D,300,SRM21,geometry math permutation and combination
 6065d4d445a5d100227e079c,Miu meets Erwin,APR21A,100,APR21,math
 6065cf6645a5d100227e079b,Eren needs Wood,APR21B,150,APR21,adhoc
 6065de3f45a5d100227e07b7, Armin and Titans,APR21C,150,APR21,math
-6065d73145a5d100227e079f,Hange vs Cockroach,APR21D,200,APR21,math   bitwise
-6065d6f645a5d100227e079e,Levi wants to clean,APR21E,200,APR21,brute force  two pointers
-6065e97c45a5d100227e07bd,Eren Vs Jean,APR21F,300,APR21,game theory  math  geometry
+6065d73145a5d100227e079f,Hange vs Cockroach,APR21D,200,APR21,math bitwise
+6065d6f645a5d100227e079e,Levi wants to clean,APR21E,200,APR21,brute force two pointers
+6065e97c45a5d100227e07bd,Eren Vs Jean,APR21F,300,APR21,game theory math geometry
 6065da6245a5d100227e07a7,Mikasa to the rescue,APR21G,350,APR21,graphs
 60fa79a49e8f310022c7d341,True Friendship,SRM22A,100,SRM22,cakewalk
 60fa7d829e8f310022c7d343,Social Network,SRM22B,100,SRM22,implementation
@@ -141,11 +141,11 @@ id,name,code,points,contestCode,tags
 613b7375f969d70023246c88,Hit or miss,SEP21A,100,SEP21,adhoc
 613c5a447fedaa0023099468,Best Book,SEP21B,100,SEP21,math
 613b896982592a00235c0a3d,Debug Freelancing,SEP21C,200,SEP21,adhoc
-613b4d6df969d70023246c83,Three 3verywhere,SEP21D,200,SEP21,dp  adhoc
+613b4d6df969d70023246c83,Three 3verywhere,SEP21D,200,SEP21,dp adhoc
 613b951f82592a00235c0a3f,Binary Pair Swap,SEP21E,300,SEP21,bit manipulation
 614c708da5479f0023787774,Winner gets Share ,SRM24A,100,SRM24,adhoc 
-614c65eba5479f002378776e,Professor loves vowels,SRM24B,100,SRM24,adhoc   strings
-614c630ba5479f002378776d,Professor loves chess,SRM24C,200,SRM24,maths   implementation   adhoc   chess
+614c65eba5479f002378776e,Professor loves vowels,SRM24B,100,SRM24,adhoc strings
+614c630ba5479f002378776d,Professor loves chess,SRM24C,200,SRM24,maths implementation adhoc chess
 614cb2c0b93b4e00230e2782,Lisbon's Integers,SRM24D,300,SRM24,adhoc
 618e5faf779365002387323e,Counting Cars,NOV21A,100,NOV21,adhoc
 618e85c97793650023873240,Samprit's Terminal,NOV21B,100,NOV21,adhoc
@@ -153,9 +153,13 @@ id,name,code,points,contestCode,tags
 618e88557793650023873242,Bake it Quickly,NOV21D,200,NOV21,maths
 618bff9869467c00238c69b7,Jidaro Relation ,NOV21E,200,NOV21,adhoc 
 618ec686dfc674002301c26b,Flipping Cards,NOV21F,250,NOV21,strings
-618e8b9e7793650023873244,Mexy Series,NOV21G,300,NOV21,mex  maths
-618edf00dfc674002301c26e,Maze Runner,NOV21H,350,NOV21,dfs   tree
+618e8b9e7793650023873244,Mexy Series,NOV21G,300,NOV21,mex maths
+618edf00dfc674002301c26e,Maze Runner,NOV21H,350,NOV21,dfs tree
 61d941c1e0fb7f00247ac020,Happy Meter ,CODEh-A,100,CH2022,adhoc math 
-61d95ad22d678f002403d02c,Prime Winner,CODEh-B,100,CH2022,adhoc  dp
+61d95ad22d678f002403d02c,Prime Winner,CODEh-B,100,CH2022,adhoc dp
 61d9c8cf2d678f002403d077, WHO IS SOBER,CODEh-C,200,CH2022,adhoc
-61d9c1bd2d678f002403d068,Drinking Game,CODEh-D,200,CH2022,adhoc   logic
+61d9c1bd2d678f002403d068,Drinking Game,CODEh-D,200,CH2022,adhoc logic
+61fe01ebaa33750024aa5136,Chloe Loves Flowers ,GSL22A,100,GSL02,adhoc
+61fe5beeaa33750024aa515b,Hide n Seek,GSL22B,150,GSL02,bit manipulation
+61fe5e93aa33750024aa515c,Boxes and Colours,GSL22C,150,GSL02,adhoc
+61fe3451aa33750024aa513d,Interesting Discount,GSL22D,200,GSL02,factorial gsl
